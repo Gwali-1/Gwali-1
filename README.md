@@ -23,7 +23,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/GWALISAM1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="GWALISAM1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-sharma-2201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://www.linkedin.com/in/khushi-sharma-2201/" height="30" width="40" /></a>
-  
-
+<a href="https://twitter.com/GWALISAM1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GWALI" height="30" width="40" /></a>
+<a href="https://discord.com/gwali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishavchanda" height="30" width="40" /></a>
