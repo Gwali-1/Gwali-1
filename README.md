@@ -14,7 +14,7 @@
 <h1 align="center">Hi👋, i'm Gwali</h1>
 
 - I learn more about **Computers** everyday and genreally find software very fascinating.
-- I like to indulge my self in materials about linux , cloud infrastructure , web and phone development, computer networks...
+- I like to indulge my self in materials about linux , cloud computing, web and mobile development, devops...
 - You'll find traces of how i spend most of my time in my repositories 
 - Do feel free to contact me about anything at all 
 
