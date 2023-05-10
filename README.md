@@ -11,7 +11,7 @@
  -->
 
 
-<h1 align="center"><i>Gwalisam</i></h1>
+<h1 align="center"><i>This is the way</i></h1>
 
 <!-- - I learn more about **Computers** everyday and genreally find software very fascinating.
 - I like to indulge my self in materials about linux , cloud computing, web and mobile development, devops...
